@@ -7,7 +7,7 @@ This is a versatile and user-friendly mobile application designed to simplify co
 
 Some Conversions 
 
-<img src="assets/images/img4.jpg" alt="Main screen of the Unit Converter app showing conversion categories" width="200" /> <img src="assets/images/img5.jpg" alt="Main screen of the Unit Converter app showing conversion categories" width="200" />
+<img src="assets/images/img4.jpg" alt="Main screen of the Unit Converter app showing conversion categories" width="200" style="margin-right: 10px;"/> <img src="assets/images/img5.jpg" alt="Main screen of the Unit Converter app showing conversion categories" width="200" />
 
 ## Getting Started
 
